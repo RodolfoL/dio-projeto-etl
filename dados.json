@@ -1,0 +1,23 @@
+{
+    "1": {
+        "ID": "1",
+        "NOME": "Rodolfo",
+        "CARTÃO": "987654321",
+        "CONTA": "123456789",
+        "MENSAGEM": "Rodolfo, investir hoje garante seu futuro. Conte com a gente para começar!"
+    },
+    "2": {
+        "ID": "2",
+        "NOME": "Ana",
+        "CARTÃO": "123456789",
+        "CONTA": "987654321",
+        "MENSAGEM": "Ana, investir hoje fortalece seu futuro. Conte conosco para começar com segurança."
+    },
+    "3": {
+        "ID": "3",
+        "NOME": "João",
+        "CARTÃO": "321654987",
+        "CONTA": "456789123",
+        "MENSAGEM": "João, investir hoje protege seu futuro e realiza sonhos. Comece conosco!"
+    }
+}
